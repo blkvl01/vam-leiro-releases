@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 1,
- "updated": "2026-10-14T12:00:00+00:00",
+ "revision": 2,
+ "updated": "2026-10-14T12:11:47+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5233,9 +5233,11 @@
   {
    "en": "incubator",
    "hu": "keltetőtál",
-   "status": "ask",
-   "source": "tanulas-2026-10-14",
-   "note": "egyeztetve 10-14: a program rákérdez"
+   "status": "approved",
+   "source": "kozos",
+   "note": "egyeztetve 10-14: a program rákérdez",
+   "updated": "2026-10-14T12:11:47+00:00",
+   "by": "vilmos.bilek"
   },
   {
    "en": "indentation pen",
