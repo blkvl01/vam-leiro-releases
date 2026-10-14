@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 3,
- "updated": "2026-10-14T12:11:53+00:00",
+ "revision": 4,
+ "updated": "2026-10-14T12:12:13+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5523,10 +5523,12 @@
   },
   {
    "en": "key for lockpicking",
-   "hu": "gyakorlózár-kulcs",
-   "status": "ask",
-   "source": "tanulas-2026-10-14",
-   "note": "egyeztetve 10-14: a program rákérdez"
+   "hu": "bevásárlókocsi nyitó eszköz",
+   "status": "approved",
+   "source": "kozos",
+   "note": "egyeztetve 10-14: a program rákérdez",
+   "updated": "2026-10-14T12:12:13+00:00",
+   "by": "vilmos.bilek"
   },
   {
    "en": "keyboard",
