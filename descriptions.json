@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 40,
- "updated": "2026-10-15T13:24:17+00:00",
+ "revision": 41,
+ "updated": "2026-10-15T13:26:55+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -965,6 +965,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "bicycle pedal",
+   "hu": "bicikli pedál",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:26:55+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "bicycle spoke",
