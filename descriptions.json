@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 19,
- "updated": "2026-10-15T11:52:30+00:00",
+ "revision": 20,
+ "updated": "2026-10-15T11:53:07+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10406,6 +10406,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "teaching stick",
+   "hu": "mutatópálca",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T11:53:07+00:00",
+   "by": "brigitta.talamaszl"
   },
   {
    "en": "teether for baby teeth grinding",
