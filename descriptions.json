@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 8,
- "updated": "2026-10-15T08:07:22+00:00",
+ "revision": 9,
+ "updated": "2026-10-15T11:35:00+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8618,6 +8618,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "rolling paper",
+   "hu": "vécépapír tekercs",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T11:35:00+00:00",
+   "by": "brigitta.talamaszl"
   },
   {
    "en": "rolling pin",
