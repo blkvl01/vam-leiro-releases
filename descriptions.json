@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 18,
- "updated": "2026-10-15T11:48:39+00:00",
+ "revision": 19,
+ "updated": "2026-10-15T11:52:30+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8336,6 +8336,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„projektor láma”"
+  },
+  {
+   "en": "prop money",
+   "hu": "vicces kellékek és játékpénzek",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T11:52:30+00:00",
+   "by": "brigitta.talamaszl"
   },
   {
    "en": "protection cap",
