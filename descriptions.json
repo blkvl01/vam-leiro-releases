@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 27,
- "updated": "2026-10-15T12:20:59+00:00",
+ "revision": 28,
+ "updated": "2026-10-15T13:14:29+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4413,6 +4413,14 @@
    "hu": "lisztszita",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "flower applicator",
+   "hu": "torta díszítő habzsák",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:14:28+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "flower mud",
