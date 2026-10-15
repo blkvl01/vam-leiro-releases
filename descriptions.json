@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 35,
- "updated": "2026-10-15T13:20:09+00:00",
+ "revision": 36,
+ "updated": "2026-10-15T13:20:32+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7562,6 +7562,14 @@
    "hu": "poháradagoló",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "paper cutting",
+   "hu": "kivágható figurák",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:20:32+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "paper extraction",
