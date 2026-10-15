@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 14,
- "updated": "2026-10-15T11:44:52+00:00",
+ "revision": 15,
+ "updated": "2026-10-15T11:46:01+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8232,6 +8232,14 @@
    "hu": "púderpamacs",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "powder puff box",
+   "hu": "púderszivacs",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T11:46:01+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "power cord",
