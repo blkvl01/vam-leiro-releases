@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 29,
- "updated": "2026-10-15T13:14:45+00:00",
+ "revision": 30,
+ "updated": "2026-10-15T13:17:14+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11825,6 +11825,7 @@
   "polyethylene": "műanyag",
   "polyethylene or polypropylene": "műanyag",
   "polypropylene": "műanyag",
+  "polystyrene": "hungarocel",
   "polyurethane coating materials": "műbőr",
   "polyvinyl chloride": "műanyag",
   "porcelain": "porcelán",
