@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 32,
- "updated": "2026-10-15T13:18:50+00:00",
+ "revision": 33,
+ "updated": "2026-10-15T13:19:18+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6691,6 +6691,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„maró maró”"
+  },
+  {
+   "en": "milling cutter set",
+   "hu": "marófúró készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:19:18+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "mirror and comb set",
