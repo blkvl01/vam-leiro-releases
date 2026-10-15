@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 38,
- "updated": "2026-10-15T13:23:28+00:00",
+ "revision": 39,
+ "updated": "2026-10-15T13:24:00+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9649,6 +9649,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "a felhasználó promptja szerint: „bebújós blúz”"
+  },
+  {
+   "en": "sleeveless blouse with opening in the neckline",
+   "hu": "ujjatlan felső",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:24:00+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "sleeveless blouse without opening in the neckline",
