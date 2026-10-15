@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 7,
- "updated": "2026-10-15T07:01:04+00:00",
+ "revision": 8,
+ "updated": "2026-10-15T08:07:22+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -57,11 +57,11 @@
   },
   {
    "en": "acoustic panels",
-   "hu": "akusztikus panel",
+   "hu": "hangszigetelő panel",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "activated carbon filter",
@@ -77,10 +77,11 @@
   },
   {
    "en": "adapting piece",
-   "hu": "átalakító idom",
+   "hu": "csőátalakító",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "„adaptációs darab”"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "adhesive strip",
@@ -314,11 +315,11 @@
   },
   {
    "en": "audio effects processor",
-   "hu": "hangeffekt-processzor",
+   "hu": "hangeffekt-készülék",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "auto body parts",
@@ -418,9 +419,11 @@
   },
   {
    "en": "back support band",
-   "hu": "derékpánt",
+   "hu": "deréktámasz öv",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "background cloth",
@@ -624,9 +627,11 @@
   },
   {
    "en": "bar tool set",
-   "hu": "bárkellék-készlet",
+   "hu": "koktélkészítő készlet",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "barbecue fork",
@@ -740,9 +745,11 @@
   },
   {
    "en": "batter dispenser",
-   "hu": "tésztaadagoló",
+   "hu": "palacsintatészta-adagoló",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "battery checker",
@@ -1378,9 +1385,11 @@
   },
   {
    "en": "capo",
-   "hu": "kapodaszter",
+   "hu": "gitárkapodaszter",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "car air filter",
@@ -1681,9 +1690,11 @@
   },
   {
    "en": "casual suit",
-   "hu": "ruházati együttes",
+   "hu": "szabadidős ruhaszett",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "casual tops",
@@ -1726,9 +1737,11 @@
   },
   {
    "en": "caulking gun",
-   "hu": "tömítőpisztoly",
+   "hu": "szilikonkinyomó pisztoly",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "cd tape package",
@@ -1801,11 +1814,11 @@
   },
   {
    "en": "chenille stems",
-   "hu": "zseníliadrót",
+   "hu": "plüssdrót",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "chenille yarn",
@@ -1970,11 +1983,11 @@
   },
   {
    "en": "cleaning wipe",
-   "hu": "tisztítóeszköz",
+   "hu": "tisztítókendő",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "cleansing powder puff",
@@ -2113,9 +2126,11 @@
   },
   {
    "en": "color palette",
-   "hu": "színpaletta",
+   "hu": "festőpaletta",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "colored paper",
@@ -2412,11 +2427,11 @@
   },
   {
    "en": "cup sleeve",
-   "hu": "pohártartó hüvely",
+   "hu": "pohárhuzat",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "cupping cup",
@@ -2567,9 +2582,11 @@
   },
   {
    "en": "de-icing shovel",
-   "hu": "jégkaparó lapát",
+   "hu": "jégkaparó",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "dead skin eliminator",
@@ -3253,9 +3270,11 @@
   },
   {
    "en": "drool towel",
-   "hu": "nyálkendő",
+   "hu": "előke",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "dumbbells",
@@ -3286,11 +3305,11 @@
   },
   {
    "en": "ear blockage",
-   "hu": "fülbevaló-stopper",
+   "hu": "fülbevaló-hátlap",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "ear hooks",
@@ -3684,9 +3703,11 @@
   },
   {
    "en": "endoscope",
-   "hu": "endoszkóp",
+   "hu": "endoszkóp kamera",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "engraving tool",
@@ -3728,9 +3749,11 @@
   },
   {
    "en": "expanded vermiculite",
-   "hu": "expandált vermikulit",
+   "hu": "vermikulit talajjavító",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "expansion dock",
@@ -3774,11 +3797,11 @@
   },
   {
    "en": "extruded profile",
-   "hu": "profil",
+   "hu": "profilléc",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "eye cover",
@@ -4013,11 +4036,11 @@
   },
   {
    "en": "fill light",
-   "hu": "derítőlámpa",
+   "hu": "fotólámpa",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "filled fitted sheet",
@@ -4353,10 +4376,11 @@
   },
   {
    "en": "flower mud",
-   "hu": "virágtűzőhab",
+   "hu": "virágtűző szivacs",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "„iszap virághoz”"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "flower stand",
@@ -4751,10 +4775,11 @@
   },
   {
    "en": "golf ball screw",
-   "hu": "golf tee",
+   "hu": "golflabda-tartó",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "egyeztetve 10-14: 球钉"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "grabber reacher",
@@ -4843,9 +4868,11 @@
   },
   {
    "en": "guitar knob",
-   "hu": "gitárpotméter-gomb",
+   "hu": "gitár szabályzógomb",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "guitar plectrums",
@@ -5529,17 +5556,19 @@
   },
   {
    "en": "ice shovel",
-   "hu": "jéglapát",
+   "hu": "jégkockalapát",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "icing piping nozzles",
-   "hu": "díszítőcsőr",
+   "hu": "tortadíszítő csőr",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "imitation shell",
@@ -5593,9 +5622,11 @@
   },
   {
    "en": "inflatable float",
-   "hu": "felfújható úszógumi",
+   "hu": "úszógumi",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "inflatable pillow",
@@ -5748,10 +5779,11 @@
   },
   {
    "en": "interlining",
-   "hu": "közbélés",
+   "hu": "merevítő bélésanyag",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "„közbeékelődés” – súlyos félrefordítás"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "invitation",
@@ -6095,10 +6127,11 @@
   },
   {
    "en": "lighting accessories",
-   "hu": "lámpaernyő",
+   "hu": "lámpatartozék",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "egyeztetve 10-14: 9405 99, textil"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "lighting lamp",
@@ -6117,9 +6150,11 @@
   },
   {
    "en": "limiting comb",
-   "hu": "vezetőfésű",
+   "hu": "hajnyírógép-vezetőfésű",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "limiting stopper",
@@ -6351,9 +6386,11 @@
   },
   {
    "en": "manual stripper",
-   "hu": "kézi csupaszoló",
+   "hu": "kézi vezetékcsupaszoló",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "manual water flosser",
@@ -7195,9 +7232,11 @@
   },
   {
    "en": "oil absorbing paper",
-   "hu": "olajelnyelő papír",
+   "hu": "olajfelszívó papír",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "oil injector",
@@ -8313,10 +8352,11 @@
   },
   {
    "en": "pulley for mechanical",
-   "hu": "csiga",
+   "hu": "kötélcsiga",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "HS 9506"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "pullover",
@@ -8742,10 +8782,11 @@
   },
   {
    "en": "sand hammer",
-   "hu": "maracas",
+   "hu": "rumbatök",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "„homok kalapács”"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "sandals",
@@ -9600,11 +9641,11 @@
   },
   {
    "en": "special profile",
-   "hu": "profil",
+   "hu": "profilléc",
    "status": "approved",
    "source": "ellenorzes",
-   "updated": "2026-10-14T12:57:25+00:00",
-   "by": "Szótárellenőrzés 2026-10-14"
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "spinning top",
@@ -9785,9 +9826,11 @@
   },
   {
    "en": "sterilizer",
-   "hu": "sterilizáló",
+   "hu": "sterilizáló készülék",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "sticker book",
@@ -10310,9 +10353,11 @@
   },
   {
    "en": "terminal",
-   "hu": "sorkapocs",
+   "hu": "vezetékösszekötő",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "test probe",
@@ -10744,9 +10789,11 @@
   },
   {
    "en": "tripod",
-   "hu": "háromlábú állvány",
+   "hu": "fotóállvány",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "trolley",
@@ -10796,10 +10843,11 @@
   },
   {
    "en": "u shaped scissors",
-   "hu": "U alakú olló",
+   "hu": "cérnavágó olló",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "ékezet nélküli forrás"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "ultrasonic cleaner",
@@ -11245,9 +11293,11 @@
   },
   {
    "en": "winding board",
-   "hu": "tekercselő lap",
+   "hu": "fonaltekercselő lap",
    "status": "approved",
-   "source": "tanulas-2026-10-14"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "windmill",
@@ -11271,10 +11321,11 @@
   },
   {
    "en": "wine divider",
-   "hu": "dekanter",
+   "hu": "borkancsó",
    "status": "approved",
-   "source": "tanulas-2026-10-14",
-   "note": "egyeztetve 10-14: 分酒器"
+   "source": "ellenorzes",
+   "updated": "2026-10-15T08:07:22+00:00",
+   "by": "Szótárellenőrzés 2026-10-15"
   },
   {
    "en": "wine measurer",
