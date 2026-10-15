@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 30,
- "updated": "2026-10-15T13:17:14+00:00",
+ "revision": 31,
+ "updated": "2026-10-15T13:18:27+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1226,6 +1226,14 @@
    "hu": "hajfonó állvány",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "brake for machines and instruments",
+   "hu": "féktartó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:18:27+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "brake lights",
