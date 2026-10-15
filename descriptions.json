@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 37,
- "updated": "2026-10-15T13:22:28+00:00",
+ "revision": 38,
+ "updated": "2026-10-15T13:23:28+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11805,6 +11805,7 @@
  "materials": {
   "abs": "műanyag",
   "abs (acrylonitrile butadiene styrene)": "műanyag",
+  "acetate": "acetát",
   "acrylic": "akril",
   "alloy": "fém",
   "alloy steel": "acél",
