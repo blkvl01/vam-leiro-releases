@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 15,
- "updated": "2026-10-15T11:46:01+00:00",
+ "revision": 16,
+ "updated": "2026-10-15T11:47:13+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9241,6 +9241,14 @@
    "hu": "lábszárvédő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "shin pads",
+   "hu": "sípcsontvédő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T11:47:12+00:00",
+   "by": "brigitta.talamaszl"
   },
   {
    "en": "shirts",
