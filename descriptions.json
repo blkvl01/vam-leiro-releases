@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 33,
- "updated": "2026-10-15T13:19:18+00:00",
+ "revision": 34,
+ "updated": "2026-10-15T13:19:43+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1109,6 +1109,14 @@
    "hu": "könyvtáska",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "book cover",
+   "hu": "jegyzetfüzet tartó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:19:43+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "book ends",
