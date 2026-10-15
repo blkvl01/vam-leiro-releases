@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 24,
- "updated": "2026-10-15T12:18:08+00:00",
+ "revision": 25,
+ "updated": "2026-10-15T12:19:12+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1433,6 +1433,14 @@
    "hu": "autós kartámasz-huzat",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "car charger",
+   "hu": "autós töltőkészülék",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T12:19:12+00:00",
+   "by": "brigitta.talamaszl"
   },
   {
    "en": "car cover",
