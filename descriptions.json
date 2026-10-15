@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 17,
- "updated": "2026-10-15T11:47:56+00:00",
+ "revision": 18,
+ "updated": "2026-10-15T11:48:39+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11725,6 +11725,7 @@
   "pc (polycarbonate)": "műanyag",
   "pe (polyethylene)": "műanyag",
   "pet (polyethylene terephthalate)": "műanyag",
+  "plant fibre": "növényi rost",
   "plant fibres": "növényi szál",
   "plastic": "műanyag",
   "plastics": "műanyag",
