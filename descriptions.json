@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 41,
- "updated": "2026-10-15T13:26:55+00:00",
+ "revision": 42,
+ "updated": "2026-10-15T13:27:24+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6194,6 +6194,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„tanuló gép”"
+  },
+  {
+   "en": "leg gaiters",
+   "hu": "combpánt",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:27:24+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "leg loops",
