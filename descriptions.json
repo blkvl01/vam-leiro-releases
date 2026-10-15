@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 28,
- "updated": "2026-10-15T13:14:29+00:00",
+ "revision": 29,
+ "updated": "2026-10-15T13:14:45+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7292,6 +7292,14 @@
    "hu": "orrtapasz",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "note holder",
+   "hu": "ragasztós jegyzettartó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T13:14:44+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "note pads",
