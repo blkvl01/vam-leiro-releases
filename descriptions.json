@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 12,
- "updated": "2026-10-15T11:42:42+00:00",
+ "revision": 13,
+ "updated": "2026-10-15T11:43:56+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4776,6 +4776,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„szemüvegtükör”, HS 7009 = üvegtükör"
+  },
+  {
+   "en": "glasses nose pad",
+   "hu": "orrpárna szemüveghez",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-15T11:43:56+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "gloves",
