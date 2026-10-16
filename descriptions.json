@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 87,
- "updated": "2026-10-16T09:30:15+00:00",
+ "revision": 88,
+ "updated": "2026-10-16T10:22:42+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2339,6 +2339,14 @@
    "hu": "csatlakozókábel",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "container lid",
+   "hu": "Tárolóedény-fedél",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T10:22:42+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "control valve",
