@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 51,
- "updated": "2026-10-16T06:20:50+00:00",
+ "revision": 52,
+ "updated": "2026-10-16T06:22:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12026,6 +12026,7 @@
   "top layer cowhide": "bőr",
   "top-grain leather": "bőr",
   "tpu": "műanyag",
+  "two-layer cowhide": "kétrétegű marhabőr",
   "vegetable textile fibres": "növényi szál",
   "viscose": "viszkóz",
   "wood": "fa",
