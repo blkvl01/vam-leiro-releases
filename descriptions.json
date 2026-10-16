@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 104,
- "updated": "2026-10-16T11:31:25+00:00",
+ "revision": 105,
+ "updated": "2026-10-16T11:31:53+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9357,6 +9357,14 @@
    "hu": "csiszolótárcsa",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "sanding machine",
+   "hu": "csiszolóhüvely",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T11:31:53+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "sanitary",
