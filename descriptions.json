@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 81,
- "updated": "2026-10-16T08:07:52+00:00",
+ "revision": 82,
+ "updated": "2026-10-16T08:08:13+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6339,6 +6339,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "lawn mower blades",
+   "hu": "fűnyíró kés",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T08:08:12+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "learning machine",
