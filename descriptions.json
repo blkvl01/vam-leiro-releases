@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 101,
- "updated": "2026-10-16T11:30:24+00:00",
+ "revision": 102,
+ "updated": "2026-10-16T11:30:54+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5772,6 +5772,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„horog szint”"
+  },
+  {
+   "en": "hoop jump",
+   "hu": "edzőgyűrű",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T11:30:53+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "horizontal bubble",
