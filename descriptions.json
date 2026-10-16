@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 95,
- "updated": "2026-10-16T10:44:04+00:00",
+ "revision": 96,
+ "updated": "2026-10-16T11:07:27+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6602,6 +6602,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„Laza lapú tárolótáska”"
+  },
+  {
+   "en": "luggage bag",
+   "hu": "bevásárlókocsi",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T11:07:27+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "luggage buckle",
