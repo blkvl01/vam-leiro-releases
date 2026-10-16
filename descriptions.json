@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 78,
- "updated": "2026-10-16T08:06:14+00:00",
+ "revision": 79,
+ "updated": "2026-10-16T08:06:37+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2221,6 +2221,14 @@
    "hu": "színfogó kendő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "color card",
+   "hu": "Műanyag körömlakk-bemutató paletta",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T08:06:37+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "color changing film",
