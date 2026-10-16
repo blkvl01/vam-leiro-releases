@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 52,
- "updated": "2026-10-16T06:22:04+00:00",
+ "revision": 53,
+ "updated": "2026-10-16T06:22:34+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11547,6 +11547,14 @@
    "hu": "szélkakas",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "wedges",
+   "hu": "szétszerelő ék",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:22:34+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "weed trimmer",
