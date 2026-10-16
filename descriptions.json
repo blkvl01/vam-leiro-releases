@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 80,
- "updated": "2026-10-16T08:07:10+00:00",
+ "revision": 81,
+ "updated": "2026-10-16T08:07:52+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4278,6 +4278,14 @@
    "hu": "cigarettafilter",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "filtering apparatus",
+   "hu": "Fülzsírvédő szűrő hallókészülékekhez",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T08:07:52+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "finger cot",
