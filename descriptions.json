@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 76,
- "updated": "2026-10-16T07:31:58+00:00",
+ "revision": 77,
+ "updated": "2026-10-16T07:32:18+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10246,6 +10246,14 @@
    "hu": "pároló betét",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "steamer basket",
+   "hu": "gözölő kosár",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T07:32:18+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "steel straps",
