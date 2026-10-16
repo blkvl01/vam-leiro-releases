@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 55,
- "updated": "2026-10-16T06:33:09+00:00",
+ "revision": 56,
+ "updated": "2026-10-16T06:33:45+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -980,6 +980,14 @@
    "status": "approved",
    "source": "kozos",
    "updated": "2026-10-15T13:26:55+00:00",
+   "by": "lili.lorge"
+  },
+  {
+   "en": "bicycle repair rack",
+   "hu": "kerékpár javító",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:33:45+00:00",
    "by": "lili.lorge"
   },
   {
