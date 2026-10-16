@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 73,
- "updated": "2026-10-16T07:19:26+00:00",
+ "revision": 74,
+ "updated": "2026-10-16T07:19:53+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6187,6 +6187,14 @@
    "hu": "térdelőpárna",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "knife cover",
+   "hu": "Késvédő tok",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T07:19:53+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "knife sharpener",
