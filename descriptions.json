@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 42,
- "updated": "2026-10-15T13:27:24+00:00",
+ "revision": 43,
+ "updated": "2026-10-16T06:12:34+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1852,6 +1852,14 @@
    "hu": "élletörő szerszám",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "charger",
+   "hu": "töltő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:12:34+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "chastity belt",
