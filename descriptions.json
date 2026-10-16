@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 66,
- "updated": "2026-10-16T06:54:00+00:00",
+ "revision": 67,
+ "updated": "2026-10-16T06:54:53+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8098,6 +8098,14 @@
    "hu": "fényképkeret",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "photographic paper",
+   "hu": "fényképnyomtató papír",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:54:53+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "picnic mat",
