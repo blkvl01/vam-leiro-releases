@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 88,
- "updated": "2026-10-16T10:22:42+00:00",
+ "revision": 89,
+ "updated": "2026-10-16T10:28:07+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5366,6 +5366,14 @@
    "hu": "kézicsengő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "handheld fan",
+   "hu": "Hordozható kézi ventillátor",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T10:28:07+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "handle cover",
