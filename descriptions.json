@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 97,
- "updated": "2026-10-16T11:08:25+00:00",
+ "revision": 98,
+ "updated": "2026-10-16T11:27:23+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -182,6 +182,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "egyeztetve 10-14"
+  },
+  {
+   "en": "an eraser",
+   "hu": "tábla radír",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T11:27:22+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "anchor for ship",
