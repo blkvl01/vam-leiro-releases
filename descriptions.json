@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 93,
- "updated": "2026-10-16T10:39:47+00:00",
+ "revision": 94,
+ "updated": "2026-10-16T10:40:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11738,6 +11738,14 @@
    "hu": "óraszíj",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "watch buckle",
+   "hu": "óraszíj csatt",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T10:40:03+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "watch case",
