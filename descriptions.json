@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 53,
- "updated": "2026-10-16T06:22:34+00:00",
+ "revision": 54,
+ "updated": "2026-10-16T06:32:27+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8058,6 +8058,14 @@
    "hu": "fényképkeret",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "picnic mat",
+   "hu": "piknik szőnyeg",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:32:27+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "picture book",
