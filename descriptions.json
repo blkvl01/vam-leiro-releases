@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 94,
- "updated": "2026-10-16T10:40:04+00:00",
+ "revision": 95,
+ "updated": "2026-10-16T10:44:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11909,6 +11909,14 @@
    "hu": "fehértábla",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "wifi extender",
+   "hu": "cserélhető szerszámfejek",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T10:44:04+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "wind chime hangers",
