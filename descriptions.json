@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 100,
- "updated": "2026-10-16T11:29:38+00:00",
+ "revision": 101,
+ "updated": "2026-10-16T11:30:24+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12308,6 +12308,7 @@
   "gem": "drágakő",
   "genuine leather": "bőr",
   "glass": "üveg",
+  "hard rubber": "gumi",
   "hemp": "kender",
   "high speed steel": "acél",
   "human hair": "emberi haj",
