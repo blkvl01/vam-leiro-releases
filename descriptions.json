@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 48,
- "updated": "2026-10-16T06:18:22+00:00",
+ "revision": 49,
+ "updated": "2026-10-16T06:19:08+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7545,6 +7545,14 @@
    "hu": "felsőkabát",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "oxygen stone",
+   "hu": "akváriumi diffúzor",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:19:08+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "packaging box",
