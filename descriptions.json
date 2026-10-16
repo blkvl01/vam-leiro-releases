@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 98,
- "updated": "2026-10-16T11:27:23+00:00",
+ "revision": 99,
+ "updated": "2026-10-16T11:28:30+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5050,6 +5050,14 @@
    "hu": "fogóbot",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "gramophone needle",
+   "hu": "Lemezjátszó lemezstabilizáló súly",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T11:28:30+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "greeting card",
