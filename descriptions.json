@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 106,
- "updated": "2026-10-16T11:32:00+00:00",
+ "revision": 107,
+ "updated": "2026-10-16T11:32:51+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11963,6 +11963,14 @@
    "hu": "kerékék",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "wheel center cover",
+   "hu": "Autó felni matrica",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T11:32:51+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "whip",
