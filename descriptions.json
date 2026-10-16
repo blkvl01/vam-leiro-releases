@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 54,
- "updated": "2026-10-16T06:32:27+00:00",
+ "revision": 55,
+ "updated": "2026-10-16T06:33:09+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10757,6 +10757,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„comb magas zokni”"
+  },
+  {
+   "en": "thread die",
+   "hu": "csőmenet vágó eszköz",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:33:09+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "thumb tack",
