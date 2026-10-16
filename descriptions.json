@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 65,
- "updated": "2026-10-16T06:43:00+00:00",
+ "revision": 66,
+ "updated": "2026-10-16T06:54:00+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -3525,6 +3525,14 @@
    "hu": "könyökvédő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "electric breast pump",
+   "hu": "elektromos mellpumpa",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:54:00+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "electric callus remover",
