@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 75,
- "updated": "2026-10-16T07:30:21+00:00",
+ "revision": 76,
+ "updated": "2026-10-16T07:31:58+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5863,6 +5863,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "inflatable tub",
+   "hu": "felfújható kád",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T07:31:57+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "inflatable wand",
