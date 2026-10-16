@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 92,
- "updated": "2026-10-16T10:39:08+00:00",
+ "revision": 93,
+ "updated": "2026-10-16T10:39:47+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9374,6 +9374,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„korbácsoló párna” – súlyos félrefordítás"
+  },
+  {
+   "en": "scrape stick",
+   "hu": "papírhajtó és élsimító kés",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T10:39:47+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "scraping board",
