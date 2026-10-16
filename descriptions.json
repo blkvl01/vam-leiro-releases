@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 82,
- "updated": "2026-10-16T08:08:13+00:00",
+ "revision": 83,
+ "updated": "2026-10-16T08:08:40+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9766,6 +9766,14 @@
    "hu": "zuhanypolc",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "shutters",
+   "hu": "árnyékoló függöny",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T08:08:40+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "sign board",
