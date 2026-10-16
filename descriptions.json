@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 72,
- "updated": "2026-10-16T07:18:45+00:00",
+ "revision": 73,
+ "updated": "2026-10-16T07:19:26+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1012,6 +1012,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„a kerékpár beszél” – súlyos félrefordítás"
+  },
+  {
+   "en": "bicycle spoke wrench",
+   "hu": "kerékpár küllőanya-kulcs",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T07:19:26+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "bidet",
