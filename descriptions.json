@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 85,
- "updated": "2026-10-16T08:38:37+00:00",
+ "revision": 86,
+ "updated": "2026-10-16T09:30:12+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1989,6 +1989,14 @@
    "hu": "karácsonyi csengő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "christmas tree",
+   "hu": "fenyőfa",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T09:30:12+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "christmas tree base",
