@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 74,
- "updated": "2026-10-16T07:19:53+00:00",
+ "revision": 75,
+ "updated": "2026-10-16T07:30:21+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10078,6 +10078,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-15T08:07:22+00:00",
    "by": "Szótárellenőrzés 2026-10-15"
+  },
+  {
+   "en": "spiked shoes",
+   "hu": "Műanyag tüskés cipő aljzatkiegyenlítéshez",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T07:30:21+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "spinning top",
