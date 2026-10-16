@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 49,
- "updated": "2026-10-16T06:19:08+00:00",
+ "revision": 50,
+ "updated": "2026-10-16T06:20:33+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8426,6 +8426,14 @@
    "hu": "hasábburgonya-vágó",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "potty chair",
+   "hu": "bili",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:20:32+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "powder puff",
