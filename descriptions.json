@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 86,
- "updated": "2026-10-16T09:30:12+00:00",
+ "revision": 87,
+ "updated": "2026-10-16T09:30:15+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5202,6 +5202,14 @@
    "hu": "hajfestékes flakon",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "hair dye bowl",
+   "hu": "hajfestő készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T09:30:14+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "hair dye cap",
