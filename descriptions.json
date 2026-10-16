@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 56,
- "updated": "2026-10-16T06:33:45+00:00",
+ "revision": 57,
+ "updated": "2026-10-16T06:35:21+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4910,6 +4910,14 @@
    "hu": "kesztyű",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "glow sticks",
+   "hu": "világító rúd",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:35:20+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "golf accessories",
