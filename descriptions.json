@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 45,
- "updated": "2026-10-16T06:17:06+00:00",
+ "revision": 46,
+ "updated": "2026-10-16T06:17:26+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10982,6 +10982,14 @@
    "hu": "koordinációs létra",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "training pants",
+   "hu": "szövetpelenka",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:17:26+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "training rope",
