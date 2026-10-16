@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 99,
- "updated": "2026-10-16T11:28:30+00:00",
+ "revision": 100,
+ "updated": "2026-10-16T11:29:38+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10642,6 +10642,14 @@
    "hu": "érintőceruza",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "submersible pump",
+   "hu": "vízgyűjtő szivattyú",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T11:29:38+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "suction cup",
