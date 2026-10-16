@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 83,
- "updated": "2026-10-16T08:08:40+00:00",
+ "revision": 84,
+ "updated": "2026-10-16T08:13:07+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12248,6 +12248,7 @@
   "silica gel": "szilikon",
   "silk": "selyem",
   "sisal": "szizál",
+  "soft clay": "műanyag",
   "spandex": "elasztán",
   "split leather": "bőr",
   "stainless steel": "rozsdamentes acél",
