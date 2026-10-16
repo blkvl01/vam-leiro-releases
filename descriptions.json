@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 46,
- "updated": "2026-10-16T06:17:26+00:00",
+ "revision": 47,
+ "updated": "2026-10-16T06:18:02+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -256,6 +256,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "aquarium substrate",
+   "hu": "szűrőanyag akváriumba",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:18:02+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "arm band",
