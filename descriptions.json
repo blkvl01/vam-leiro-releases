@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 64,
- "updated": "2026-10-16T06:42:16+00:00",
+ "revision": 65,
+ "updated": "2026-10-16T06:43:00+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11535,6 +11535,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„figyeld a láncot” – súlyos félrefordítás"
+  },
+  {
+   "en": "watch lug",
+   "hu": "óraszíj csatlakozó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:43:00+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "water bag",
