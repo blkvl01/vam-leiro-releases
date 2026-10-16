@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 43,
- "updated": "2026-10-16T06:12:34+00:00",
+ "revision": 44,
+ "updated": "2026-10-16T06:13:32+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4966,6 +4966,14 @@
    "hu": "ágyékvédő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "grooming kit",
+   "hu": "tisztálkodási készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-16T06:13:32+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "ground cloth",
