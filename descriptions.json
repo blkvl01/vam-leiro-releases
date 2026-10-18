@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 109,
- "updated": "2026-10-18T15:58:38+00:00",
+ "revision": 110,
+ "updated": "2026-10-18T15:59:28+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5948,6 +5948,14 @@
    "hu": "kartotékkártya",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "indicator lights",
+   "hu": "jelzőfény",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-18T15:59:27+00:00",
+   "by": "brigitta.talamaszl"
   },
   {
    "en": "induction soap dispenser",
