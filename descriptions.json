@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 110,
- "updated": "2026-10-18T15:59:28+00:00",
+ "revision": 111,
+ "updated": "2026-10-19T08:15:06+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -366,6 +366,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "automobile fender",
+   "hu": "hajó ütköző",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:15:06+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "automobile gas support rod",
