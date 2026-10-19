@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 113,
- "updated": "2026-10-19T08:16:08+00:00",
+ "revision": 114,
+ "updated": "2026-10-19T08:16:17+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8898,6 +8898,14 @@
    "hu": "élvédő szalag",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "protectors",
+   "hu": "menetvédő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:16:17+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "protractor",
