@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 116,
- "updated": "2026-10-19T08:30:05+00:00",
+ "revision": 117,
+ "updated": "2026-10-19T08:30:27+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11911,6 +11911,14 @@
    "source": "kozos",
    "updated": "2026-10-16T06:43:00+00:00",
    "by": "adrienn.ellenbacher"
+  },
+  {
+   "en": "watch pillow",
+   "hu": "óra párna",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:30:27+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "water bag",
