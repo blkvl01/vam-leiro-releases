@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 121,
- "updated": "2026-10-19T08:57:07+00:00",
+ "revision": 122,
+ "updated": "2026-10-19T08:57:26+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1922,6 +1922,14 @@
    "hu": "láncos karkötő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "chain clamp",
+   "hu": "láncos rögzítő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:57:25+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "chain necklace",
