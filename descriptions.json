@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 112,
- "updated": "2026-10-19T08:15:08+00:00",
+ "revision": 113,
+ "updated": "2026-10-19T08:16:08+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2153,6 +2153,14 @@
    "hu": "körömcsipesz",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "clipboard",
+   "hu": "kétratást javító segédeszköz",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:16:07+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "clipper blade",
