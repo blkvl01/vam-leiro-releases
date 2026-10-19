@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 124,
- "updated": "2026-10-19T08:59:55+00:00",
+ "revision": 125,
+ "updated": "2026-10-19T09:00:27+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12087,6 +12087,14 @@
    "hu": "mérleg",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "weight bags",
+   "hu": "súly zsákok",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T09:00:27+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "welding fixture",
