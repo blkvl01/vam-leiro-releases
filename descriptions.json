@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 118,
- "updated": "2026-10-19T08:31:18+00:00",
+ "revision": 119,
+ "updated": "2026-10-19T08:32:28+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10187,6 +10187,14 @@
    "hu": "tű",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "smart trash can",
+   "hu": "okos szemeteskuka",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:32:27+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "snap button",
