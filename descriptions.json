@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 111,
- "updated": "2026-10-19T08:15:06+00:00",
+ "revision": 112,
+ "updated": "2026-10-19T08:15:08+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1436,6 +1436,14 @@
    "hu": "naptárkönyv",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "calipers",
+   "hu": "tolómérő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:15:08+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "camera bag",
