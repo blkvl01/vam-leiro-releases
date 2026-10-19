@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 115,
- "updated": "2026-10-19T08:26:51+00:00",
+ "revision": 116,
+ "updated": "2026-10-19T08:30:05+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2331,6 +2331,14 @@
    "hu": "edénykészlet",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "compass set",
+   "hu": "körzőkészlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-19T08:30:05+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "compasses for marking",
