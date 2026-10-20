@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 138,
- "updated": "2026-10-20T07:25:04+00:00",
+ "revision": 139,
+ "updated": "2026-10-20T11:21:02+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8390,6 +8390,14 @@
    "hu": "kisállat-WC",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "pet towel",
+   "hu": "Kisállat Törölköző",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-20T11:21:02+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "pet toy",
