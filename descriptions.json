@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 129,
- "updated": "2026-10-19T10:16:47+00:00",
+ "revision": 130,
+ "updated": "2026-10-20T06:08:07+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1964,6 +1964,14 @@
    "hu": "élletörő szerszám",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "changing pad",
+   "hu": "pelenkázó alátét",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-20T06:08:07+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "charger",
