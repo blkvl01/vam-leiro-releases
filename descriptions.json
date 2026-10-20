@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 137,
- "updated": "2026-10-20T07:24:31+00:00",
+ "revision": 138,
+ "updated": "2026-10-20T07:25:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9797,6 +9797,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "egyeztetve 10-14: a HS-kódot követjük (3926 műanyag)"
+  },
+  {
+   "en": "selfie stick",
+   "hu": "hordozható monopod",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-20T07:25:04+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "sensor cards",
