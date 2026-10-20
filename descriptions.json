@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 130,
- "updated": "2026-10-20T06:08:07+00:00",
+ "revision": 131,
+ "updated": "2026-10-20T06:47:18+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2854,6 +2854,14 @@
    "hu": "díszített szoknyaszegély",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "decoration camera",
+   "hu": "kültéri kamera",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-20T06:47:18+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "decoration net",
