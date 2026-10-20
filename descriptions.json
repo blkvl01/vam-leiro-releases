@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 139,
- "updated": "2026-10-20T11:21:02+00:00",
+ "revision": 140,
+ "updated": "2026-10-20T11:24:12+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9374,6 +9374,14 @@
    "hu": "rövid overál",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "roof spoiler",
+   "hu": "Autós légterelő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-20T11:24:12+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "room divider",
