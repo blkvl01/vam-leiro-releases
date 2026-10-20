@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 132,
- "updated": "2026-10-20T06:47:22+00:00",
+ "revision": 133,
+ "updated": "2026-10-20T06:49:15+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7740,6 +7740,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„öv” – súlyos félrefordítás"
+  },
+  {
+   "en": "non-electrical lighting devices",
+   "hu": "Gyertyatartó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-20T06:49:15+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "non-prescription glasses",
