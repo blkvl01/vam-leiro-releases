@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 142,
- "updated": "2026-10-20T11:51:40+00:00",
+ "revision": 143,
+ "updated": "2026-10-21T13:09:27+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1879,6 +1879,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "cat litter box",
+   "hu": "macskaalomho lépőállvány",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-21T13:09:27+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "cat scratching pad",
