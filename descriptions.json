@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 143,
- "updated": "2026-10-21T13:09:27+00:00",
+ "revision": 144,
+ "updated": "2026-10-21T13:09:30+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8921,6 +8921,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„nyomásérzékelő” téves"
+  },
+  {
+   "en": "price tag",
+   "hu": "parkolási tábla",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-21T13:09:30+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "price tag gun",
