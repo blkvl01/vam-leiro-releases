@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 146,
- "updated": "2026-10-22T02:14:39+00:00",
+ "revision": 147,
+ "updated": "2026-10-22T08:58:12+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10972,6 +10972,14 @@
    "hu": "öltöny",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "sun shade",
+   "hu": "napfénytető takaró",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-22T08:58:12+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "sunglasses",
