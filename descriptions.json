@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 145,
- "updated": "2026-10-22T02:13:11+00:00",
+ "revision": 146,
+ "updated": "2026-10-22T02:14:39+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2489,6 +2489,14 @@
    "hu": "vezérszelep",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "converter",
+   "hu": "dokkoló",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-22T02:14:39+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "cooking apron",
