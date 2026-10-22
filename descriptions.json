@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 147,
- "updated": "2026-10-22T08:58:12+00:00",
+ "revision": 148,
+ "updated": "2026-10-22T08:59:10+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4028,6 +4028,14 @@
    "hu": "mentőfólia",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "emergency siren",
+   "hu": "Hordozható levegőminőség-mérő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-22T08:59:10+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "empty first aid kit pouch",
