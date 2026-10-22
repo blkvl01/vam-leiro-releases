@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 160,
- "updated": "2026-10-22T13:54:48+00:00",
+ "revision": 161,
+ "updated": "2026-10-22T13:55:15+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -814,6 +814,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-15T08:07:22+00:00",
    "by": "Szótárellenőrzés 2026-10-15"
+  },
+  {
+   "en": "battery charger",
+   "hu": "akkumulátortöltő készülék",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-22T13:55:15+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "battery checker",
