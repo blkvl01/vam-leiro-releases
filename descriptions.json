@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 154,
- "updated": "2026-10-22T12:55:50+00:00",
+ "revision": 155,
+ "updated": "2026-10-22T13:28:18+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1454,6 +1454,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„vajas pisztoly”"
+  },
+  {
+   "en": "button cover",
+   "hu": "Indítógomb fedél",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-22T13:28:18+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "cabinet",
