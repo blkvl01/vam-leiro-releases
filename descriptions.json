@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 148,
- "updated": "2026-10-22T08:59:10+00:00",
+ "revision": 149,
+ "updated": "2026-10-22T09:00:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5836,6 +5836,14 @@
    "hu": "sisaktáska",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "helmet lining",
+   "hu": "kalap bélés",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-22T09:00:04+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "hexagonal wrench",
