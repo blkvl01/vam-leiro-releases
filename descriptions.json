@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 171,
- "updated": "2026-10-23T14:55:04+00:00",
+ "revision": 172,
+ "updated": "2026-10-23T14:56:14+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6585,6 +6585,14 @@
    "hu": "konyhai reszelő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "kitchenware set",
+   "hu": "konyhai keverő készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-23T14:56:14+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "knee pads",
