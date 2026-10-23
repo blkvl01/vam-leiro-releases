@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 167,
- "updated": "2026-10-23T14:26:58+00:00",
+ "revision": 168,
+ "updated": "2026-10-23T14:27:36+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11609,6 +11609,14 @@
    "hu": "zsebkendőtartó",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "tobacco pack",
+   "hu": "Hordozható Dohányzó Kiegészítő Táska",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-23T14:27:36+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "toe separator",
