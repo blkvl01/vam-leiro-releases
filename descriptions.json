@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 169,
- "updated": "2026-10-23T14:54:27+00:00",
+ "revision": 170,
+ "updated": "2026-10-23T14:54:32+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4322,6 +4322,14 @@
    "hu": "arcecset",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "face mask sheet",
+   "hu": "Eldobható Papír Arcmaszk",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-23T14:54:31+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "face slimming belt",
