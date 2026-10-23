@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 170,
- "updated": "2026-10-23T14:54:32+00:00",
+ "revision": 171,
+ "updated": "2026-10-23T14:55:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4358,6 +4358,14 @@
    "source": "kozos",
    "updated": "2026-10-20T06:47:22+00:00",
    "by": "krisztina.dallos"
+  },
+  {
+   "en": "facial mask",
+   "hu": "Arc- és Szemápoló Maszk",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-23T14:55:04+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "facial polyester pads",
