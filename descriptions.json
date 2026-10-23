@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 164,
- "updated": "2026-10-22T14:26:28+00:00",
+ "revision": 165,
+ "updated": "2026-10-23T14:06:25+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4326,6 +4326,14 @@
    "hu": "arcpároló",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "face towel",
+   "hu": "Eldobható arctisztító törlőkendők",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-23T14:06:25+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "facial cleansing tool",
