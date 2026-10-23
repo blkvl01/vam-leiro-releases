@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 173,
- "updated": "2026-10-23T15:05:35+00:00",
+ "revision": 174,
+ "updated": "2026-10-23T15:06:20+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2402,6 +2402,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "collar brace",
+   "hu": "inggallér merevítő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-23T15:06:20+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "collector for home use",
