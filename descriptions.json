@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 174,
- "updated": "2026-10-23T15:06:20+00:00",
+ "revision": 175,
+ "updated": "2026-10-23T15:06:47+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4471,6 +4471,14 @@
    "hu": "csapfej-hosszabbító",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "faucet hole cover",
+   "hu": "Csőburkoló készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-23T15:06:47+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "faucet protective cover",
