@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 179,
- "updated": "2026-10-24T07:12:06+00:00",
+ "revision": 180,
+ "updated": "2026-10-24T09:06:19+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -396,6 +396,14 @@
    "hu": "gázrugó",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "automobile grille",
+   "hu": "Lökhárító Rács",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T09:06:19+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "automobile lamps",
@@ -2149,6 +2157,14 @@
    "hu": "karácsonyi csengő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "christmas stockings",
+   "hu": "Karácsonyi dekorációs zoknik",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T09:06:19+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "christmas tree",
