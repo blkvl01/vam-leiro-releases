@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 182,
- "updated": "2026-10-24T15:46:45+00:00",
+ "revision": 183,
+ "updated": "2026-10-24T15:46:47+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12205,6 +12205,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "veil",
+   "hu": "pillangós menyasszonyi fátyol",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T15:46:47+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "velcro strap",
