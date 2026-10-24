@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 189,
- "updated": "2026-10-24T16:07:30+00:00",
+ "revision": 190,
+ "updated": "2026-10-24T16:34:15+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -935,6 +935,14 @@
    "hu": "ágylepedő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "bed skirt",
+   "hu": "ágytakaró",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T16:34:15+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "bedding comforter",
