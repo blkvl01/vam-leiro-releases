@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 183,
- "updated": "2026-10-24T15:46:47+00:00",
+ "revision": 184,
+ "updated": "2026-10-24T15:55:48+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -308,6 +308,14 @@
    "hu": "karmelegítő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "armor remover kit",
+   "hu": "Körömlakklemosó készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T15:55:48+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "armrest padding",
