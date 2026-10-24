@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 187,
- "updated": "2026-10-24T16:06:16+00:00",
+ "revision": 188,
+ "updated": "2026-10-24T16:06:38+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7765,6 +7765,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "egyeztetve 10-14"
+  },
+  {
+   "en": "mulch for floor covering",
+   "hu": "hó- és szélálló termesztőfólia",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T16:06:38+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "multi-purpose scissors",
