@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 177,
- "updated": "2026-10-24T06:05:20+00:00",
+ "revision": 178,
+ "updated": "2026-10-24T06:23:15+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12984,6 +12984,7 @@
   "synthetic fibres": "műszál",
   "synthetic resin": "műanyag",
   "tempered glass": "üveg",
+  "terracotta": "agyag",
   "textile material": "textil",
   "textile materials": "textil",
   "titanium": "titán",
