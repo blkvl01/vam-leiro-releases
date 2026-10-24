@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 181,
- "updated": "2026-10-24T09:16:35+00:00",
+ "revision": 182,
+ "updated": "2026-10-24T15:46:45+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12993,6 +12993,7 @@
   "second layer cowhide": "bőr",
   "sheepskin": "bőr",
   "sheeting of plastics": "műanyag",
+  "shell": "kagylóhéj",
   "silica gel": "szilikon",
   "silk": "selyem",
   "sisal": "szizál",
