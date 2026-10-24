@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 178,
- "updated": "2026-10-24T06:23:15+00:00",
+ "revision": 179,
+ "updated": "2026-10-24T07:12:06+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12918,6 +12918,7 @@
   "leather": "bőr",
   "linen": "len",
   "linen&ramie": "len",
+  "lyocell": "tencel",
   "man made fibre": "műszál",
   "metal": "fém",
   "microfiber coating materials": "műbőr",
