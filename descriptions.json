@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 180,
- "updated": "2026-10-24T09:06:19+00:00",
+ "revision": 181,
+ "updated": "2026-10-24T09:16:35+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10174,6 +10174,14 @@
    "hu": "vállkendő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "sheet",
+   "hu": "Szénszálas műanyaglemez",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T09:16:35+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "sheet for non-farm use",
