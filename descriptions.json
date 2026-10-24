@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 190,
- "updated": "2026-10-24T16:34:15+00:00",
+ "revision": 191,
+ "updated": "2026-10-24T16:34:20+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -3105,6 +3105,14 @@
    "hu": "díszkorona",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "decorative curtains",
+   "hu": "parti háttér függöny",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-24T16:34:20+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "decorative five-pointed star",
