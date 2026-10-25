@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 196,
- "updated": "2026-10-25T10:08:12+00:00",
+ "revision": 197,
+ "updated": "2026-10-25T10:08:30+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1913,6 +1913,14 @@
    "hu": "ácsceruza",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "carpet cleaner",
+   "hu": "szőnyegtisztító",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-25T10:08:29+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "carving knife",
