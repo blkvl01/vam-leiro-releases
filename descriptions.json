@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 208,
- "updated": "2026-10-25T14:24:53+00:00",
+ "revision": 209,
+ "updated": "2026-10-25T14:31:18+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2285,6 +2285,14 @@
    "source": "kozos",
    "updated": "2026-10-18T15:58:38+00:00",
    "by": "brigitta.talamaszl"
+  },
+  {
+   "en": "cleaning equipment",
+   "hu": "csaptelep üvegmosó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-25T14:31:18+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "cleaning gun",
