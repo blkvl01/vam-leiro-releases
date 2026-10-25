@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 198,
- "updated": "2026-10-25T10:08:45+00:00",
+ "revision": 199,
+ "updated": "2026-10-25T10:09:10+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9763,6 +9763,14 @@
    "hu": "kerékpár-belső",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "rubber mat",
+   "hu": "gumiabroncs",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-25T10:09:09+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "rubbing back strips",
