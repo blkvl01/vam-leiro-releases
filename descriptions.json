@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 206,
- "updated": "2026-10-25T13:53:32+00:00",
+ "revision": 207,
+ "updated": "2026-10-25T13:53:47+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7916,6 +7916,14 @@
    "hu": "körömreszelő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "nail gun",
+   "hu": "szögbelövő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-25T13:53:47+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "nail lamp",
