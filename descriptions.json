@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 200,
- "updated": "2026-10-25T10:09:25+00:00",
+ "revision": 201,
+ "updated": "2026-10-25T10:15:51+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -13130,6 +13130,7 @@
   "pu leather": "műbőr",
   "pumice": "habkő",
   "pure color silk wool": "textil",
+  "pvc": "pvc",
   "pvc (polyvinyl chloride)": "műanyag",
   "rayon": "viszkóz",
   "resin": "műanyag",
