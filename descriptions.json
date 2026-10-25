@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 204,
- "updated": "2026-10-25T10:30:10+00:00",
+ "revision": 205,
+ "updated": "2026-10-25T13:44:39+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12443,6 +12443,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "wall light",
+   "hu": "fali lámpa",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-25T13:44:39+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "wall panel",
