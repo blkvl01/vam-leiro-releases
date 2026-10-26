@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 225,
- "updated": "2026-10-26T12:56:26+00:00",
+ "revision": 226,
+ "updated": "2026-10-26T13:12:41+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4589,6 +4589,14 @@
    "hu": "csaptelep-védőhuzat",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "faucet valve cartridge",
+   "hu": "csaptelep-betét",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T13:12:41+00:00",
+   "by": "mariann.gyori"
   },
   {
    "en": "feeding bag",
