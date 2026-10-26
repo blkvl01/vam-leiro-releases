@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 219,
- "updated": "2026-10-26T12:13:20+00:00",
+ "revision": 220,
+ "updated": "2026-10-26T12:13:23+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8385,6 +8385,14 @@
    "status": "approved",
    "source": "kozos",
    "updated": "2026-10-15T13:20:32+00:00",
+   "by": "lili.lorge"
+  },
+  {
+   "en": "paper eraser pen",
+   "hu": "Árnyékoló ceruza",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T12:13:22+00:00",
    "by": "lili.lorge"
   },
   {
