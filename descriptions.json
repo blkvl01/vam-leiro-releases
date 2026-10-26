@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 217,
- "updated": "2026-10-26T11:53:58+00:00",
+ "revision": 218,
+ "updated": "2026-10-26T11:55:25+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11750,6 +11750,14 @@
    "hu": "feszítő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "tent cloth",
+   "hu": "sátorponyva",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T11:55:25+00:00",
+   "by": "mariann.gyori"
   },
   {
    "en": "terminal",
