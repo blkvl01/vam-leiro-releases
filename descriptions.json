@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 214,
- "updated": "2026-10-26T08:12:12+00:00",
+ "revision": 215,
+ "updated": "2026-10-26T09:50:02+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11467,6 +11467,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„úszás fenék” – súlyos félrefordítás"
+  },
+  {
+   "en": "swimming cap",
+   "hu": "úszósapka",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T09:50:02+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "swimming nose clip",
