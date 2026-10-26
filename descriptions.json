@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 221,
- "updated": "2026-10-26T12:18:24+00:00",
+ "revision": 222,
+ "updated": "2026-10-26T12:23:39+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7922,6 +7922,14 @@
    "hu": "dob",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "musical toys",
+   "hu": "zenélő játék",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T12:23:39+00:00",
+   "by": "mariann.gyori"
   },
   {
    "en": "nail art accessories",
