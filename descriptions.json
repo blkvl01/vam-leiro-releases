@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 220,
- "updated": "2026-10-26T12:13:23+00:00",
+ "revision": 221,
+ "updated": "2026-10-26T12:18:24+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9220,6 +9220,14 @@
    "hu": "postaláda",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "pot lid",
+   "hu": "főzőedény fogantyú",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T12:18:23+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "potato strip cutting machine",
