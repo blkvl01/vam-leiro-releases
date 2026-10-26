@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 224,
- "updated": "2026-10-26T12:54:37+00:00",
+ "revision": 225,
+ "updated": "2026-10-26T12:56:26+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5460,6 +5460,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-15T08:07:22+00:00",
    "by": "Szótárellenőrzés 2026-10-15"
+  },
+  {
+   "en": "golf hitting mat",
+   "hu": "súlyeltoló edzőeszköz",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T12:56:26+00:00",
+   "by": "mariann.gyori"
   },
   {
    "en": "grabber reacher",
