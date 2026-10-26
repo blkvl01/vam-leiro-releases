@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 226,
- "updated": "2026-10-26T13:12:41+00:00",
+ "revision": 227,
+ "updated": "2026-10-26T13:13:21+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -13284,6 +13284,7 @@
   "metal": "fém",
   "microfiber coating materials": "műbőr",
   "microfiber leather": "műbőr",
+  "natural fibre": "természetes szál",
   "natural stone": "kő",
   "noble metal-plated": "fém",
   "non-alloy steel": "acél",
