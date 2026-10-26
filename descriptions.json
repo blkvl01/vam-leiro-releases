@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 222,
- "updated": "2026-10-26T12:23:39+00:00",
+ "revision": 223,
+ "updated": "2026-10-26T12:26:32+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12758,6 +12758,14 @@
    "hu": "öntözőkészlet",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "waterproof cloth",
+   "hu": "kültéri esőálló ponyva",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T12:26:32+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "wax bean heater",
