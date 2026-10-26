@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 212,
- "updated": "2026-10-26T07:35:44+00:00",
+ "revision": 213,
+ "updated": "2026-10-26T07:54:33+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8915,6 +8915,14 @@
    "hu": "csőszelep",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "pizza knife",
+   "hu": "sütemény- és tésztavágó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T07:54:33+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "placemat",
