@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 228,
- "updated": "2026-10-26T13:14:09+00:00",
+ "revision": 229,
+ "updated": "2026-10-26T18:36:52+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11067,6 +11067,14 @@
    "hu": "rugós csipesz",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "spring for mechanical and electrical",
+   "hu": "műcsali",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T18:36:52+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "spring rope",
