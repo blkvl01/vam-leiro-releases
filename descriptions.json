@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 210,
- "updated": "2026-10-26T07:13:02+00:00",
+ "revision": 211,
+ "updated": "2026-10-26T07:13:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9961,6 +9961,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "egyeztetve 10-14: 4823"
+  },
+  {
+   "en": "scarf rack",
+   "hu": "sálakasztó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T07:13:04+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "scooter parts",
