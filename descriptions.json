@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 215,
- "updated": "2026-10-26T09:50:02+00:00",
+ "revision": 216,
+ "updated": "2026-10-26T11:11:40+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1497,6 +1497,14 @@
    "hu": "hamburgerprés",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "business card",
+   "hu": "ügyfélértékelő tábla",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-26T11:11:40+00:00",
+   "by": "lili.lorge"
   },
   {
    "en": "business card box",
