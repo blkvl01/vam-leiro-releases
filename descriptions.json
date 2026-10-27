@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 249,
- "updated": "2026-10-27T11:56:21+00:00",
+ "revision": 250,
+ "updated": "2026-10-27T11:56:33+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11326,6 +11326,14 @@
    "source": "kozos",
    "updated": "2026-10-16T07:32:18+00:00",
    "by": "adrienn.ellenbacher"
+  },
+  {
+   "en": "steel seal",
+   "hu": "dombornyomó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T11:56:33+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "steel straps",
