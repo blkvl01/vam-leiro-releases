@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 237,
- "updated": "2026-10-27T10:57:44+00:00",
+ "revision": 238,
+ "updated": "2026-10-27T10:58:00+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8552,6 +8552,14 @@
    "hu": "útlevéltok",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "paste placard",
+   "hu": "Matrica Papír",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T10:58:00+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "pastry bags",
