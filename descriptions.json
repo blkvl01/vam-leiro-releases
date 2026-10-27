@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 231,
- "updated": "2026-10-26T18:37:05+00:00",
+ "revision": 232,
+ "updated": "2026-10-27T10:51:51+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1116,6 +1116,14 @@
    "source": "kozos",
    "updated": "2026-10-16T07:19:26+00:00",
    "by": "adrienn.ellenbacher"
+  },
+  {
+   "en": "bicycle tail light",
+   "hu": "hátsó lámpa és szelepsapka szett",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T10:51:50+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "bidet",
