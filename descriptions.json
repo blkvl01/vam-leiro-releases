@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 232,
- "updated": "2026-10-27T10:51:51+00:00",
+ "revision": 233,
+ "updated": "2026-10-27T10:52:53+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4288,6 +4288,14 @@
    "hu": "borítékkészlet",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "ethernet cable",
+   "hu": "hálózati kábel",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T10:52:53+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "exercise mat",
