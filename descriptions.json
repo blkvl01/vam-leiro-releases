@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 233,
- "updated": "2026-10-27T10:52:53+00:00",
+ "revision": 234,
+ "updated": "2026-10-27T10:54:10+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2131,6 +2131,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "egyeztetve 10-14"
+  },
+  {
+   "en": "check valve",
+   "hu": "Akvárium Légszivattyú Kiegészítők",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T10:54:10+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "chenille stems",
