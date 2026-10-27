@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 243,
- "updated": "2026-10-27T11:46:40+00:00",
+ "revision": 244,
+ "updated": "2026-10-27T11:47:00+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7787,6 +7787,14 @@
    "source": "kozos",
    "updated": "2026-10-26T11:53:58+00:00",
    "by": "mariann.gyori"
+  },
+  {
+   "en": "motorcycle fuel tank",
+   "hu": "üzemanyagtartály",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T11:47:00+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "motorcycle fuel tank cap",
