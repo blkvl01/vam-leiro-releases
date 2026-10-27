@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 238,
- "updated": "2026-10-27T10:58:00+00:00",
+ "revision": 239,
+ "updated": "2026-10-27T10:59:09+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12331,6 +12331,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„sebességváltó szíja”"
+  },
+  {
+   "en": "transmission shaft",
+   "hu": "áram nélküli hátsó kerékagy",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T10:59:09+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "transmitting gear",
