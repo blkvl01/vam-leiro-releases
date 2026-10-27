@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 235,
- "updated": "2026-10-27T10:54:56+00:00",
+ "revision": 236,
+ "updated": "2026-10-27T10:55:25+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6946,6 +6946,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„tanuló gép”"
+  },
+  {
+   "en": "ledger",
+   "hu": "Költségvetés-tervező füzet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T10:55:25+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "leg gaiters",
