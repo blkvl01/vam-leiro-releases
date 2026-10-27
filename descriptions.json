@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 248,
- "updated": "2026-10-27T11:55:49+00:00",
+ "revision": 249,
+ "updated": "2026-10-27T11:56:21+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10831,6 +10831,14 @@
    "hu": "mosogatóalátét",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "skateboard",
+   "hu": "ujjdeszka",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T11:56:21+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "skewer",
