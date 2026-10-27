@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 244,
- "updated": "2026-10-27T11:47:00+00:00",
+ "revision": 245,
+ "updated": "2026-10-27T11:47:17+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12212,6 +12212,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "toothpaste cap",
+   "hu": "fogkrémtető",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-27T11:47:17+00:00",
+   "by": "nikoletta.sebok"
   },
   {
    "en": "toothpaste squeezer",
