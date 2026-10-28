@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 258,
- "updated": "2026-10-28T02:28:08+00:00",
+ "revision": 259,
+ "updated": "2026-10-28T16:38:54+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -3582,6 +3582,14 @@
    "hu": "játékbaba",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "doll costume",
+   "hu": "jétékbaba ruha",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T16:38:54+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "doll costumes",
