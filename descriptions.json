@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 266,
- "updated": "2026-10-28T20:39:24+00:00",
+ "revision": 267,
+ "updated": "2026-10-28T22:41:32+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2777,6 +2777,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„fűrészpántok”"
+  },
+  {
+   "en": "corsets",
+   "hu": "alakformáló fűző",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T22:41:32+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "cosmetic bag",
