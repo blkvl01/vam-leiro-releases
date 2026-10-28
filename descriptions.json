@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 271,
- "updated": "2026-10-28T23:24:11+00:00",
+ "revision": 272,
+ "updated": "2026-10-28T23:29:21+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5332,6 +5332,14 @@
    "hu": "olajsütő kosár",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "fuel meter",
+   "hu": "Univerzális üzemanyagszint-szenzor",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T23:29:21+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "fuel pump",
