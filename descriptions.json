@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 264,
- "updated": "2026-10-28T20:32:24+00:00",
+ "revision": 265,
+ "updated": "2026-10-28T20:39:10+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1719,6 +1719,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "car door lock",
+   "hu": "Univerzális ajtózár",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T20:39:10+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "car fender",
