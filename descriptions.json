@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 260,
- "updated": "2026-10-28T16:39:02+00:00",
+ "revision": 261,
+ "updated": "2026-10-28T16:39:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -3278,6 +3278,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "decorative plaque",
+   "hu": "dekorációs tábla",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T16:39:16+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "decorative plate",
