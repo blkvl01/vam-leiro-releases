@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 259,
- "updated": "2026-10-28T16:38:54+00:00",
+ "revision": 260,
+ "updated": "2026-10-28T16:39:02+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12002,6 +12002,14 @@
    "hu": "hőmérséklet-jelző papír",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "tennis ball",
+   "hu": "védőtok háziállatoknak",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T16:39:02+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "tension band",
