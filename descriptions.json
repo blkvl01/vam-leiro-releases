@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 265,
- "updated": "2026-10-28T20:39:10+00:00",
+ "revision": 266,
+ "updated": "2026-10-28T20:39:24+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11566,6 +11566,14 @@
    "status": "approved",
    "source": "kozos",
    "updated": "2026-10-22T12:45:09+00:00",
+   "by": "csilla.szabo"
+  },
+  {
+   "en": "stove fittings",
+   "hu": "Gáztűzhely lángsapka fedél",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T20:39:24+00:00",
    "by": "csilla.szabo"
   },
   {
