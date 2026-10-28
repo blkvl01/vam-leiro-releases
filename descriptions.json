@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 262,
- "updated": "2026-10-28T20:00:32+00:00",
+ "revision": 263,
+ "updated": "2026-10-28T20:32:17+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6465,6 +6465,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-15T08:07:22+00:00",
    "by": "Szótárellenőrzés 2026-10-15"
+  },
+  {
+   "en": "ignition material",
+   "hu": "kültéri tűzgyújtó csík",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T20:32:17+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "imitation shell",
