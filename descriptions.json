@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 255,
- "updated": "2026-10-28T02:20:05+00:00",
+ "revision": 256,
+ "updated": "2026-10-28T02:20:13+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12026,6 +12026,14 @@
    "hu": "kémcső",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "test tube rack",
+   "hu": "Ékszerkészítési Kijelző",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T02:20:13+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "tester",
