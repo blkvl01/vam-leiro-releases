@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 267,
- "updated": "2026-10-28T22:41:32+00:00",
+ "revision": 268,
+ "updated": "2026-10-28T22:42:12+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11756,6 +11756,14 @@
    "hu": "tartórúd",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "suspended ceiling",
+   "hu": "mennyezeti rozetta",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T22:42:12+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "suspender",
