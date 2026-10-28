@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 252,
- "updated": "2026-10-28T02:19:26+00:00",
+ "revision": 253,
+ "updated": "2026-10-28T02:19:28+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7066,6 +7066,14 @@
    "hu": "levélbontó kés",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "level",
+   "hu": "Elektronikus Szögmérő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T02:19:28+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "leveling instrument",
