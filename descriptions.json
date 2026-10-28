@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 263,
- "updated": "2026-10-28T20:32:17+00:00",
+ "revision": 264,
+ "updated": "2026-10-28T20:32:24+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -4848,6 +4848,14 @@
    "hu": "ujjatlan kesztyű",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "finished fabric",
+   "hu": "Színes játékkendő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T20:32:24+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "fireplace fan",
