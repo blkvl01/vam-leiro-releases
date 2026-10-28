@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 251,
- "updated": "2026-10-27T11:57:17+00:00",
+ "revision": 252,
+ "updated": "2026-10-28T02:19:26+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5518,6 +5518,14 @@
    "hu": "kesztyű",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "gloves set",
+   "hu": "térdmagasságú zokni és ujjvédő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T02:19:26+00:00",
+   "by": "erika.csikos"
   },
   {
    "en": "glow sticks",
