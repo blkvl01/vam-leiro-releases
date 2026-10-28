@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 268,
- "updated": "2026-10-28T22:42:12+00:00",
+ "revision": 269,
+ "updated": "2026-10-28T23:23:58+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12074,6 +12074,14 @@
    "source": "kozos",
    "updated": "2026-10-28T16:39:02+00:00",
    "by": "vivien.haraszti"
+  },
+  {
+   "en": "tennis racket bag",
+   "hu": "Teniszező táska",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T23:23:58+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "tension band",
