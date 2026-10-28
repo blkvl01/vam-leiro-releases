@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 261,
- "updated": "2026-10-28T16:39:16+00:00",
+ "revision": 262,
+ "updated": "2026-10-28T20:00:32+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8528,6 +8528,14 @@
    "hu": "festőtasak",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "painting set",
+   "hu": "Festőpaletta készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-28T20:00:31+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "pajama pants",
