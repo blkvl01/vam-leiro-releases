@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 275,
- "updated": "2026-10-29T00:14:07+00:00",
+ "revision": 276,
+ "updated": "2026-10-29T00:35:40+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10832,6 +10832,14 @@
    "hu": "válltömés",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "shoulder strap",
+   "hu": "hagyományos fonott vállpánt",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-29T00:35:39+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "shower brush",
