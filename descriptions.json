@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 274,
- "updated": "2026-10-29T00:13:21+00:00",
+ "revision": 275,
+ "updated": "2026-10-29T00:14:07+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5219,6 +5219,14 @@
    "hu": "konyhai fogó",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "foot bar",
+   "hu": "kerékpár lábtartó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-29T00:14:07+00:00",
+   "by": "csilla.szabo"
   },
   {
    "en": "foot care membrane",
