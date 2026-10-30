@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 277,
- "updated": "2026-10-30T14:58:13+00:00",
+ "revision": 278,
+ "updated": "2026-10-30T14:58:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10050,6 +10050,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "egyeztetve 10-14: 9503"
+  },
+  {
+   "en": "roller blind",
+   "hu": "tapadásmentes szusihengerlő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-30T14:58:16+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "roller bottle",
