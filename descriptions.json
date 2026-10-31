@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 283,
- "updated": "2026-10-31T15:43:49+00:00",
+ "revision": 284,
+ "updated": "2026-10-31T15:43:51+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1791,6 +1791,14 @@
    "source": "kozos",
    "updated": "2026-10-26T12:13:20+00:00",
    "by": "lili.lorge"
+  },
+  {
+   "en": "car retainer clip",
+   "hu": "ajtókárpit kapocs",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-31T15:43:51+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "car seat cover",
