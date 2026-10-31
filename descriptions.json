@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 279,
- "updated": "2026-10-31T15:19:06+00:00",
+ "revision": 280,
+ "updated": "2026-10-31T15:21:07+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10566,6 +10566,14 @@
    "hu": "biztonsági kamera",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "seeders",
+   "hu": "Kézi magvető eszköz",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-31T15:21:06+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "self-tapping screws",
