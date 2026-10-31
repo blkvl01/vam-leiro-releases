@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 284,
- "updated": "2026-10-31T15:43:51+00:00",
+ "revision": 285,
+ "updated": "2026-10-31T15:44:44+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11262,6 +11262,14 @@
    "hu": "jógatégla",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "sound card",
+   "hu": "hangkártya",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-10-31T15:44:43+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "sound console",
