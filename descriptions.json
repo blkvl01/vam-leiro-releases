@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 287,
- "updated": "2026-11-02T10:10:33+00:00",
+ "revision": 288,
+ "updated": "2026-11-02T10:16:37+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9062,6 +9062,14 @@
    "hu": "kisállat-WC",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "pet toothbrush",
+   "hu": "Fogkefe háziállatoknak",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-02T10:16:37+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "pet towel",
