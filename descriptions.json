@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 285,
- "updated": "2026-10-31T15:44:44+00:00",
+ "revision": 286,
+ "updated": "2026-11-02T10:10:30+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11702,6 +11702,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "egyeztetve 10-14: 7323 93"
+  },
+  {
+   "en": "stove racks",
+   "hu": "Gázrózsa-szűkítő",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-02T10:10:30+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "straight ruler",
