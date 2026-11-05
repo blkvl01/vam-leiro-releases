@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 298,
- "updated": "2026-11-05T12:27:05+00:00",
+ "revision": 299,
+ "updated": "2026-11-05T12:44:21+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -13842,6 +13842,7 @@
   "lyocell": "tencel",
   "man made fibre": "műszál",
   "metal": "fém",
+  "microfiber": "mikroszál",
   "microfiber coating materials": "műbőr",
   "microfiber leather": "műbőr",
   "natural fibre": "természetes szál",
