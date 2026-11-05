@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 294,
- "updated": "2026-11-05T10:43:56+00:00",
+ "revision": 295,
+ "updated": "2026-11-05T10:44:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6952,6 +6952,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "kimono",
+   "hu": "női kimono",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-05T10:44:16+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "kitchen and dining storage rack",
