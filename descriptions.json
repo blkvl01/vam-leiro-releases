@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 293,
- "updated": "2026-11-05T09:36:31+00:00",
+ "revision": 294,
+ "updated": "2026-11-05T10:43:56+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2651,6 +2651,14 @@
    "hu": "vákuumos tárolózsák",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "compression socks",
+   "hu": "kompressziós zokni",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-05T10:43:56+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "computer briefcase",
