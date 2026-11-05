@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 295,
- "updated": "2026-11-05T10:44:16+00:00",
+ "revision": 296,
+ "updated": "2026-11-05T10:44:28+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9855,6 +9855,14 @@
    "hu": "pumpás adagolóflakon",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "pump head",
+   "hu": "pumpa adagoló fej",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-05T10:44:28+00:00",
+   "by": "adrienn.ellenbacher"
   },
   {
    "en": "puncture needle",
