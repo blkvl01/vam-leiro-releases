@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 305,
- "updated": "2026-11-06T11:38:50+00:00",
+ "revision": 306,
+ "updated": "2026-11-06T11:40:29+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -13973,7 +13973,8 @@
   "wool": "gyapjú",
   "wool content of 85% or more": "gyapjú",
   "zinc": "fém",
-  "zinc alloy": "fém"
+  "zinc alloy": "fém",
+  "zinc-iron alloy": "cink-vas ötvözet"
  },
  "weaves": {
   "crochet": "horgolt",
