@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 304,
- "updated": "2026-11-06T11:37:49+00:00",
+ "revision": 305,
+ "updated": "2026-11-06T11:38:50+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8965,6 +8965,14 @@
    "hu": "ceruzahegyező",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "percussion instrument parts",
+   "hu": "Basszusdob karika védőtok",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-06T11:38:50+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "percussion instruments",
