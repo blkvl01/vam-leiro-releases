@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 306,
- "updated": "2026-11-06T11:40:29+00:00",
+ "revision": 307,
+ "updated": "2026-11-08T20:56:25+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1977,6 +1977,14 @@
    "source": "kozos",
    "updated": "2026-10-25T10:08:29+00:00",
    "by": "lili.lorge"
+  },
+  {
+   "en": "carrying case",
+   "hu": "Elektronikai Doboz",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-08T20:56:25+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "carving knife",
