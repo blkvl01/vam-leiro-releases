@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 309,
- "updated": "2026-11-08T20:57:13+00:00",
+ "revision": 310,
+ "updated": "2026-11-08T21:10:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1749,6 +1749,14 @@
    "hu": "autószőnyeg",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "car fog lights",
+   "hu": "autó ködlámpa",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-08T21:10:16+00:00",
+   "by": "krisztina.dallos"
   },
   {
    "en": "car hanging bag",
