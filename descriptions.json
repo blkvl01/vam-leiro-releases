@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 330,
- "updated": "2026-11-09T11:55:08+00:00",
+ "revision": 331,
+ "updated": "2026-11-09T11:56:09+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -13980,6 +13980,14 @@
    "hu": "jojó",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "zip tie",
+   "hu": "Vezetéknélküli töltőállvány",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T11:56:09+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "zipper cord",
