@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 334,
- "updated": "2026-11-09T12:38:46+00:00",
+ "revision": 335,
+ "updated": "2026-11-09T12:39:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10612,6 +10612,14 @@
    "hu": "fűrészlap",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "scanner",
+   "hu": "Szkenner",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T12:39:16+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "scarf",
