@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 312,
- "updated": "2026-11-08T21:30:03+00:00",
+ "revision": 313,
+ "updated": "2026-11-09T09:36:10+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -2333,6 +2333,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "HS 6804 – csiszolókorong, nem fém fűrészlap"
+  },
+  {
+   "en": "cleaning agents",
+   "hu": "Tisztítókendő készlet",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T09:36:10+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "cleaning bag",
