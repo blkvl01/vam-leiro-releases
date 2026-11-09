@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 313,
- "updated": "2026-11-09T09:36:10+00:00",
+ "revision": 314,
+ "updated": "2026-11-09T09:36:57+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5507,6 +5507,14 @@
    "hu": "bútormozgató eszköz",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "game cassette",
+   "hu": "Nintendo Switch játékkártya-tartó tok",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T09:36:57+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "game console",
