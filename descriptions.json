@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 323,
- "updated": "2026-11-09T11:35:16+00:00",
+ "revision": 324,
+ "updated": "2026-11-09T11:46:01+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5978,6 +5978,14 @@
    "source": "kozos",
    "updated": "2026-10-16T09:30:14+00:00",
    "by": "adrienn.ellenbacher"
+  },
+  {
+   "en": "hair dye brush",
+   "hu": "Hajfestőkefe",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T11:46:01+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "hair dye cap",
