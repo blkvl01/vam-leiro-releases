@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 320,
- "updated": "2026-11-09T11:34:29+00:00",
+ "revision": 321,
+ "updated": "2026-11-09T11:34:32+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7195,6 +7195,14 @@
    "hu": "laminálófólia",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "lampholder",
+   "hu": "Autó hátsólámpa izzó tartó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T11:34:32+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "lampshade",
