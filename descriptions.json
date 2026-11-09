@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 328,
- "updated": "2026-11-09T11:54:04+00:00",
+ "revision": 329,
+ "updated": "2026-11-09T11:54:41+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11749,6 +11749,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "stand base",
+   "hu": "Vezetéknélküli töltőállvány",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T11:54:41+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "staple remover",
