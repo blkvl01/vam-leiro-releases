@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 315,
- "updated": "2026-11-09T09:37:20+00:00",
+ "revision": 316,
+ "updated": "2026-11-09T09:59:35+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12639,6 +12639,14 @@
    "hu": "lábujjelválasztó",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "toilet brush",
+   "hu": "wc-kefe falra szerelhető",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T09:59:35+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "toilet lid cover",
