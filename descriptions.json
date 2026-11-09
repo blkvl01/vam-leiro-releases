@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 322,
- "updated": "2026-11-09T11:34:56+00:00",
+ "revision": 323,
+ "updated": "2026-11-09T11:35:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -11086,6 +11086,14 @@
    "hu": "cipőfűző",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "shopping cart",
+   "hu": "Bevásárlókocsi kerekekkel",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T11:35:16+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "short tube boots",
