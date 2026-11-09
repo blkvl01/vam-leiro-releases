@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 331,
- "updated": "2026-11-09T11:56:09+00:00",
+ "revision": 332,
+ "updated": "2026-11-09T12:37:40+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -5373,6 +5373,14 @@
    "hu": "talpvédő",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "foot massager",
+   "hu": "Elektromos masszírozó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T12:37:40+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "foot pedal",
