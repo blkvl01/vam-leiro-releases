@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 318,
- "updated": "2026-11-09T10:00:59+00:00",
+ "revision": 319,
+ "updated": "2026-11-09T10:05:30+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12998,6 +12998,14 @@
    "hu": "trófea",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "trousers",
+   "hu": "Női ruhaegyüttes",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T10:05:30+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "tube brush",
