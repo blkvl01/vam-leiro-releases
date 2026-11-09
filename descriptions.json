@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 333,
- "updated": "2026-11-09T12:37:43+00:00",
+ "revision": 334,
+ "updated": "2026-11-09T12:38:46+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9816,6 +9816,14 @@
    "source": "kozos",
    "updated": "2026-10-15T11:46:01+00:00",
    "by": "adrienn.ellenbacher"
+  },
+  {
+   "en": "power adapter",
+   "hu": "akkumulátoros szivargyújtó adapter",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-09T12:38:46+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "power cord",
