@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 341,
- "updated": "2026-11-10T13:53:45+00:00",
+ "revision": 342,
+ "updated": "2026-11-10T13:54:04+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8681,6 +8681,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "nursery cup",
+   "hu": "Csíráztató pohár",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-10T13:54:04+00:00",
+   "by": "mariann.gyori"
   },
   {
    "en": "nursing pad",
