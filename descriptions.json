@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 344,
- "updated": "2026-11-10T14:14:44+00:00",
+ "revision": 345,
+ "updated": "2026-11-10T14:14:49+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6335,6 +6335,14 @@
    "status": "approved",
    "source": "kozos",
    "updated": "2026-11-10T14:14:43+00:00",
+   "by": "mariann.gyori"
+  },
+  {
+   "en": "hats",
+   "hu": "kalapok",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-10T14:14:48+00:00",
    "by": "mariann.gyori"
   },
   {
