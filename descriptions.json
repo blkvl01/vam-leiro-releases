@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 337,
- "updated": "2026-11-09T12:44:01+00:00",
+ "revision": 338,
+ "updated": "2026-11-10T10:26:28+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -9626,6 +9626,14 @@
    "hu": "játéksátor",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "playdough",
+   "hu": "Körömdiszítő eszköz",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-10T10:26:28+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "playing cards",
