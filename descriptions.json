@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 345,
- "updated": "2026-11-10T14:14:49+00:00",
+ "revision": 346,
+ "updated": "2026-11-10T14:15:09+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -7495,6 +7495,14 @@
    "hu": "rúzstok",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "locating plate",
+   "hu": "helymeghatározó tábla",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-10T14:15:08+00:00",
+   "by": "mariann.gyori"
   },
   {
    "en": "lock buckle",
