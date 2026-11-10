@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 339,
- "updated": "2026-11-10T10:26:57+00:00",
+ "revision": 340,
+ "updated": "2026-11-10T10:27:08+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -10169,6 +10169,14 @@
    "hu": "borotva",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "razor blades",
+   "hu": "Borotvapenge tartó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-10T10:27:08+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "reaction balls",
