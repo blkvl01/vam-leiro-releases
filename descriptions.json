@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 349,
- "updated": "2026-11-11T13:42:56+00:00",
+ "revision": 350,
+ "updated": "2026-11-11T13:45:54+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -1365,6 +1365,14 @@
    "hu": "palackhuzat",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "bottle stopper",
+   "hu": "Bordugó",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-11T13:45:54+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "bow tie",
