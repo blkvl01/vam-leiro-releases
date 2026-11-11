@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 348,
- "updated": "2026-11-11T11:28:16+00:00",
+ "revision": 349,
+ "updated": "2026-11-11T13:42:56+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -8645,6 +8645,14 @@
    "status": "approved",
    "source": "tanulas-2026-10-14",
    "note": "„hálószoba” – súlyos félrefordítás"
+  },
+  {
+   "en": "nightdress set",
+   "hu": "női hálóing",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-11T13:42:56+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "nipple covers",
