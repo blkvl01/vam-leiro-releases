@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 347,
- "updated": "2026-11-11T11:20:16+00:00",
+ "revision": 348,
+ "updated": "2026-11-11T11:28:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -6024,6 +6024,14 @@
    "hu": "hajháló",
    "status": "approved",
    "source": "tanulas-2026-10-14"
+  },
+  {
+   "en": "hair removal brush",
+   "hu": "Szöszeltávolító kefe",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-11T11:28:15+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "hair remover",
