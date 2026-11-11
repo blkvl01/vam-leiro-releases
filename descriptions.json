@@ -1,7 +1,7 @@
 {
  "schema": 1,
- "revision": 346,
- "updated": "2026-11-10T14:15:09+00:00",
+ "revision": 347,
+ "updated": "2026-11-11T11:20:16+00:00",
  "entries": [
   {
    "en": "3d decorative elements",
@@ -12347,6 +12347,14 @@
    "source": "ellenorzes",
    "updated": "2026-10-14T12:57:25+00:00",
    "by": "Szótárellenőrzés 2026-10-14"
+  },
+  {
+   "en": "swings indoor games for entertainment",
+   "hu": "mini játékhinta",
+   "status": "approved",
+   "source": "kozos",
+   "updated": "2026-11-11T11:20:15+00:00",
+   "by": "vivien.haraszti"
   },
   {
    "en": "switch button",
